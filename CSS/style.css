@@ -1,0 +1,8 @@
+.banner-img{
+    background-image: url(/images/Rectangle\ 5.png),url(/images/banner.png);
+    height: 80vh;
+    background-repeat: no-repeat;
+}
+.fm{
+    font-family:"EB Garamond";
+}
